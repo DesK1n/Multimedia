@@ -1,0 +1,245 @@
+{
+  "inference_time_ms": 118.86,
+  "num_detections": 6,
+  "detections": [
+    {
+      "class": "bus",
+      "confidence": 0.873,
+      "box": [
+        22.9,
+        231.3,
+        805.0,
+        756.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.866,
+      "box": [
+        48.6,
+        398.6,
+        245.3,
+        902.7
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.853,
+      "box": [
+        669.5,
+        392.2,
+        809.7,
+        877.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.825,
+      "box": [
+        221.5,
+        405.8,
+        345.0,
+        857.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.261,
+      "box": [
+        0.0,
+        550.5,
+        63.0,
+        873.4
+      ]
+    },
+    {
+      "class": "stop sign",
+      "confidence": 0.255,
+      "box": [
+        0.1,
+        254.5,
+        32.6,
+        324.9
+      ]
+    }
+  ],
+  "annotated_image": "E:\\KNU\\K2 S1\\Обробка\\Lab5\\results\\images\\step2_detection_result.jpg",
+  "custom_image": {
+    "source_image": "E:\\KNU\\K2 S1\\Обробка\\Lab1-2\\images\\my_image.png",
+    "inference_time_ms": 73.73,
+    "num_detections": 17,
+    "detections": [
+      {
+        "class": "bus",
+        "confidence": 0.939,
+        "box": [
+          74.7,
+          344.0,
+          171.7,
+          387.6
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.751,
+        "box": [
+          279.1,
+          359.2,
+          288.1,
+          383.6
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.742,
+        "box": [
+          228.0,
+          358.4,
+          235.6,
+          382.9
+        ]
+      },
+      {
+        "class": "car",
+        "confidence": 0.72,
+        "box": [
+          13.0,
+          363.0,
+          43.8,
+          379.3
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.698,
+        "box": [
+          214.6,
+          358.6,
+          222.8,
+          382.4
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.694,
+        "box": [
+          242.9,
+          358.5,
+          250.4,
+          382.3
+        ]
+      },
+      {
+        "class": "car",
+        "confidence": 0.693,
+        "box": [
+          0.0,
+          362.9,
+          17.8,
+          377.1
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.68,
+        "box": [
+          299.3,
+          357.2,
+          309.0,
+          383.0
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.65,
+        "box": [
+          483.3,
+          359.4,
+          504.8,
+          396.3
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.556,
+        "box": [
+          382.2,
+          357.2,
+          391.8,
+          386.1
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.473,
+        "box": [
+          293.8,
+          357.4,
+          301.2,
+          382.3
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.379,
+        "box": [
+          491.6,
+          359.4,
+          504.8,
+          395.8
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.329,
+        "box": [
+          425.3,
+          359.8,
+          434.5,
+          384.5
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.324,
+        "box": [
+          391.0,
+          358.2,
+          399.6,
+          385.4
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.316,
+        "box": [
+          332.2,
+          357.4,
+          342.3,
+          381.7
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.272,
+        "box": [
+          294.2,
+          356.6,
+          305.4,
+          382.5
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.256,
+        "box": [
+          227.3,
+          358.3,
+          238.4,
+          383.1
+        ]
+      }
+    ],
+    "annotated_image": "E:\\KNU\\K2 S1\\Обробка\\Lab5\\results\\images\\step2_custom_knu_detection.jpg"
+  }
+}

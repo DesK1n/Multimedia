@@ -1,0 +1,27 @@
+{
+  "source_video": "vtest.avi",
+  "source_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/vtest.avi",
+  "resolution": [
+    768,
+    576
+  ],
+  "source_fps": 10.0,
+  "n_frames": 90,
+  "elapsed_seconds": 2.77,
+  "processing_fps": 32.5,
+  "total_detections": 715,
+  "avg_detections_per_frame": 7.94,
+  "class_counts": {
+    "person": 452,
+    "truck": 90,
+    "car": 90,
+    "bird": 82,
+    "skis": 1
+  },
+  "output_video": "E:\\KNU\\K2 S1\\Обробка\\Lab5\\results\\video\\video_detection.mp4",
+  "screenshots": [
+    "E:\\KNU\\K2 S1\\Обробка\\Lab5\\results\\images\\step5_video_frame_start.jpg",
+    "E:\\KNU\\K2 S1\\Обробка\\Lab5\\results\\images\\step5_video_frame_mid.jpg",
+    "E:\\KNU\\K2 S1\\Обробка\\Lab5\\results\\images\\step5_video_frame_end.jpg"
+  ]
+}

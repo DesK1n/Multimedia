@@ -1,0 +1,3 @@
+model_name,parameters,precision,recall,map50,map50_95,fps,latency_ms
+yolov8n.pt,3157200,0.6385,0.5361,0.6054,0.4454,24.15,41.4
+yolov8s.pt,11166560,0.7877,0.6682,0.7585,0.5855,12.54,79.75

@@ -1,0 +1,16 @@
+Фільтр,Параметр,"PSNR, дБ",MSE,SSIM
+Gaussian,kernel=3,20.43,588.33,0.4612
+Gaussian,kernel=5,20.72,551.08,0.4833
+Gaussian,kernel=7,20.50,579.14,0.5010
+Gaussian,kernel=9,20.23,616.40,0.5052
+Gaussian,kernel=11,19.96,655.78,0.5053
+Median,kernel=3,22.41,373.72,0.7546
+Median,kernel=5,21.10,505.15,0.6623
+Median,kernel=7,20.07,639.87,0.5819
+Median,kernel=9,19.45,738.63,0.5303
+Median,kernel=11,18.99,820.98,0.4942
+Bilateral,d=5,14.98,2064.13,0.3177
+Bilateral,d=9,15.04,2035.52,0.3124
+Bilateral,d=13,15.07,2024.26,0.3103
+Bilateral,d=17,15.08,2018.02,0.3104
+НАЙКРАЩИЙ,Median (kernel=3),22.41,373.72,0.7546

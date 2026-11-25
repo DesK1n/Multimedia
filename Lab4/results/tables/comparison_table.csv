@@ -1,0 +1,5 @@
+Experiment,Short_Name,Accuracy,Precision,Recall,F1_Weighted,F1_Macro,Total_Params,Trainable_Params,Memory_MB,Training_Time_s,Inference_Time_s,Batch_Latency_ms
+Custom CNN (без аугментації),A: CNN (Raw),0.8627,0.8618,0.8627,0.8599,0.8599,421834,421834,1.69,19.74,0.358,4.56
+Custom CNN (з аугментацією),B: CNN + Aug,0.8533,0.8516,0.8533,0.8501,0.8501,421834,421834,1.69,23.46,0.313,3.63
+Pretrained ResNet-18 (Transfer Learning),C: ResNet-18,0.8467,0.8465,0.8467,0.8444,0.8444,11181642,5130,44.73,66.91,1.726,55.9
+Pretrained EfficientNet-B0 (Transfer Learning),D: EfficientNet-B0,0.8313,0.8311,0.8313,0.8307,0.8307,4020358,12810,16.08,58.46,1.556,47.79

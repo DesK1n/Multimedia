@@ -1,0 +1,6 @@
+mode,label,test_accuracy,f1_weighted,best_val_accuracy,train_time_sec
+none,Без аугментації (Exp A),0.8627,0.8599,0.89,19.74
+flip,HorizontalFlip (p=0.5),0.852,0.8501,0.8707,36.17
+rotation,RandomRotation (±10°),0.8673,0.8644,0.8793,38.89
+affine,RandomAffine (shift 8%),0.8453,0.8467,0.866,26.54
+combined,Flip + Rotation (Exp B),0.8533,0.8501,0.88,23.46

@@ -1,0 +1,22 @@
+{
+  "yolov8n.pt": {
+    "model_name": "yolov8n.pt",
+    "parameters": 3157200,
+    "precision": 0.6385,
+    "recall": 0.5361,
+    "map50": 0.6054,
+    "map50_95": 0.4454,
+    "fps": 24.15,
+    "latency_ms": 41.4
+  },
+  "yolov8s.pt": {
+    "model_name": "yolov8s.pt",
+    "parameters": 11166560,
+    "precision": 0.7877,
+    "recall": 0.6682,
+    "map50": 0.7585,
+    "map50_95": 0.5855,
+    "fps": 12.54,
+    "latency_ms": 79.75
+  }
+}
